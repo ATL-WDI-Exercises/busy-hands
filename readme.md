@@ -1,5 +1,5 @@
 ##Busy Hands Exercise
-Today you'll try to recreate a webpage based on screenshots. The CSS is provided for you so just focus on the HTML to scaffold the page.
+Today you'll try to recreate a webpage based on these [screenshots](https://github.com/ATL-WDI-Exercises/busy-hands/tree/master/busy-hands-html-css-lab/screenshots). The CSS is provided for you so just focus on the HTML to scaffold the page.
 
 ![Busy Hands](https://github.com/ATL-WDI-Exercises/busy-hands/blob/master/busy-hands-html-css-lab/screenshots/full-page-screenshot.png)
 
