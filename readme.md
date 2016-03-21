@@ -1,6 +1,8 @@
 ##Busy Hands Exercise
 Today you'll try to recreate a webpage based on screenshots. The CSS is provided for you so just focus on the HTML to scaffold the page.
 
+![Busy Hands](https://github.com/ATL-WDI-Exercises/busy-hands/blob/master/busy-hands-html-css-lab/screenshots/full-page-screenshot.png)
+
 ###Suggested elements/ids/classes to include
 
 These are some ideas for divs you might want to include in your page structure -- the names aren't super important (you can change them if you'd like), but might be helpful for indicating what each div does/where it goes.
